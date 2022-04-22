@@ -655,9 +655,9 @@ const Home = (props: HomeProps) => {
                     <DesContainer>
                         <Des elevation={2}>
                             <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>ABOUT BAG HEAD FAN CLUB</GoldTitle></LogoAligner>
-                            <p>Bag Head Fan Club is a collection of city sports teams that will grow to represent all major sports.</p>
+                            <p>Bag Head Fan Club is a collection of city sports teams that will expand to represent all major sports.</p>
                             <p>Starting with our 2,000 NFT basketball collection.</p>
-                            <p>Aweful team, loyal fans is what being an owner of a Bag Head Fan Club NFT.</p>
+                            <p>Awful teams, loyal fans is what being an owner of a Bag Head Fan Club NFT.</p>
                         </Des>
                         <Des elevation={2}>
                             <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>UTILITY</GoldTitle></LogoAligner>
@@ -669,7 +669,7 @@ const Home = (props: HomeProps) => {
                             <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>ROADMAP</GoldTitle></LogoAligner>
                             <p>Addtional collections include Baseball, Football and Hockey with no more than 2,000 NFTs per collection.</p>
                             <p>Community driven, eager to learn, share and promote their losing team!</p>
-                            <p>Announce the Bag Head Fan Club shop to buy merch with DUBS.</p>
+                            <p>Announce the Bag Head Fan Club shop to buy merch with our DUB token.</p>
                         </Des>
                     </DesContainer>
                 </MintContainer>
