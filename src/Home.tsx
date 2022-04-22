@@ -561,7 +561,7 @@ const Home = (props: HomeProps) => {
                             <ConnectButton>Connect Wallet</ConnectButton>}
                     </Wallet>
                 </WalletContainer>
-                <ShimmerTitle>LAUNCHING SOON !</ShimmerTitle>
+                <ShimmerTitle>MINT TODAY !</ShimmerTitle>
                 <br/>
                 <MintContainer>
                     <DesContainer>
